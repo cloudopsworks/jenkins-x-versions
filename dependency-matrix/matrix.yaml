@@ -95,11 +95,11 @@ dependencies:
   version: 2.3.118
   versionURL: https://github.com/jenkins-x/exposecontroller/releases/tag/v2.3.118
 - host: github.com
-  owner: jenkins-x
+  owner: cloudopsworks
   repo: jenkins-x-platform
-  url: https://github.com/jenkins-x/jenkins-x-platform
+  url: https://github.com/cloudopsworks/jenkins-x-platform
   version: 2.0.2397
-  versionURL: https://github.com/jenkins-x/jenkins-x-platform/releases/tag/v2.0.2397
+  versionURL: https://github.com/cloudopsworks/jenkins-x-platform/releases/tag/v2.0.2397
 - host: github.com
   owner: jenkins-x-charts
   repo: jx-build-templates
